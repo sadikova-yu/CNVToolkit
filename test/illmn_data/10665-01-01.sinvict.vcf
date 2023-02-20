@@ -1,0 +1,172 @@
+##fileformat=VCFv4.1
+##FILTER=<ID=PASS,Description="All filters passed">
+##fileDate=20211028
+##source=sinvict
+##startTime=Thu Oct 28 19:23:15 2021
+##reference=file:///home/aod/GENOME/hg19/hg19.fa
+##contig=<ID=chr1,length=249250621>
+##contig=<ID=chr2,length=243199373>
+##contig=<ID=chr3,length=198022430>
+##contig=<ID=chr4,length=191154276>
+##contig=<ID=chr5,length=180915260>
+##contig=<ID=chr6,length=171115067>
+##contig=<ID=chr7,length=159138663>
+##contig=<ID=chrX,length=155270560>
+##contig=<ID=chr8,length=146364022>
+##contig=<ID=chr9,length=141213431>
+##contig=<ID=chr10,length=135534747>
+##contig=<ID=chr11,length=135006516>
+##contig=<ID=chr12,length=133851895>
+##contig=<ID=chr13,length=115169878>
+##contig=<ID=chr14,length=107349540>
+##contig=<ID=chr15,length=102531392>
+##contig=<ID=chr16,length=90354753>
+##contig=<ID=chr17,length=81195210>
+##contig=<ID=chr18,length=78077248>
+##contig=<ID=chr20,length=63025520>
+##contig=<ID=chrY,length=59373566>
+##contig=<ID=chr19,length=59128983>
+##contig=<ID=chr22,length=51304566>
+##contig=<ID=chr21,length=48129895>
+##contig=<ID=chr6_ssto_hap7,length=4928567>
+##contig=<ID=chr6_mcf_hap5,length=4833398>
+##contig=<ID=chr6_cox_hap2,length=4795371>
+##contig=<ID=chr6_mann_hap4,length=4683263>
+##contig=<ID=chr6_apd_hap1,length=4622290>
+##contig=<ID=chr6_qbl_hap6,length=4611984>
+##contig=<ID=chr6_dbb_hap3,length=4610396>
+##contig=<ID=chr17_ctg5_hap1,length=1680828>
+##contig=<ID=chr4_ctg9_hap1,length=590426>
+##contig=<ID=chr1_gl000192_random,length=547496>
+##contig=<ID=chrUn_gl000225,length=211173>
+##contig=<ID=chr4_gl000194_random,length=191469>
+##contig=<ID=chr4_gl000193_random,length=189789>
+##contig=<ID=chr9_gl000200_random,length=187035>
+##contig=<ID=chrUn_gl000222,length=186861>
+##contig=<ID=chrUn_gl000212,length=186858>
+##contig=<ID=chr7_gl000195_random,length=182896>
+##contig=<ID=chrUn_gl000223,length=180455>
+##contig=<ID=chrUn_gl000224,length=179693>
+##contig=<ID=chrUn_gl000219,length=179198>
+##contig=<ID=chr17_gl000205_random,length=174588>
+##contig=<ID=chrUn_gl000215,length=172545>
+##contig=<ID=chrUn_gl000216,length=172294>
+##contig=<ID=chrUn_gl000217,length=172149>
+##contig=<ID=chr9_gl000199_random,length=169874>
+##contig=<ID=chrUn_gl000211,length=166566>
+##contig=<ID=chrUn_gl000213,length=164239>
+##contig=<ID=chrUn_gl000220,length=161802>
+##contig=<ID=chrUn_gl000218,length=161147>
+##contig=<ID=chr19_gl000209_random,length=159169>
+##contig=<ID=chrUn_gl000221,length=155397>
+##contig=<ID=chrUn_gl000214,length=137718>
+##contig=<ID=chrUn_gl000228,length=129120>
+##contig=<ID=chrUn_gl000227,length=128374>
+##contig=<ID=chr1_gl000191_random,length=106433>
+##contig=<ID=chr19_gl000208_random,length=92689>
+##contig=<ID=chr9_gl000198_random,length=90085>
+##contig=<ID=chr17_gl000204_random,length=81310>
+##contig=<ID=chrUn_gl000233,length=45941>
+##contig=<ID=chrUn_gl000237,length=45867>
+##contig=<ID=chrUn_gl000230,length=43691>
+##contig=<ID=chrUn_gl000242,length=43523>
+##contig=<ID=chrUn_gl000243,length=43341>
+##contig=<ID=chrUn_gl000241,length=42152>
+##contig=<ID=chrUn_gl000236,length=41934>
+##contig=<ID=chrUn_gl000240,length=41933>
+##contig=<ID=chr17_gl000206_random,length=41001>
+##contig=<ID=chrUn_gl000232,length=40652>
+##contig=<ID=chrUn_gl000234,length=40531>
+##contig=<ID=chr11_gl000202_random,length=40103>
+##contig=<ID=chrUn_gl000238,length=39939>
+##contig=<ID=chrUn_gl000244,length=39929>
+##contig=<ID=chrUn_gl000248,length=39786>
+##contig=<ID=chr8_gl000196_random,length=38914>
+##contig=<ID=chrUn_gl000249,length=38502>
+##contig=<ID=chrUn_gl000246,length=38154>
+##contig=<ID=chr17_gl000203_random,length=37498>
+##contig=<ID=chr8_gl000197_random,length=37175>
+##contig=<ID=chrUn_gl000245,length=36651>
+##contig=<ID=chrUn_gl000247,length=36422>
+##contig=<ID=chr9_gl000201_random,length=36148>
+##contig=<ID=chrUn_gl000235,length=34474>
+##contig=<ID=chrUn_gl000239,length=33824>
+##contig=<ID=chr21_gl000210_random,length=27682>
+##contig=<ID=chrUn_gl000231,length=27386>
+##contig=<ID=chrUn_gl000229,length=19913>
+##contig=<ID=chrM,length=16571>
+##contig=<ID=chrUn_gl000226,length=15008>
+##contig=<ID=chr18_gl000207_random,length=4262>
+##content=strelka germline small-variant calls
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele frequency">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total read depth at the locus">
+##INFO=<ID=AD,Number=A,Type=Integer,Description="Allele counts">
+##bcftools_normVersion=1.7+htslib-1.7-2
+##bcftools_normCommand=norm -m -any -f /home/aod/GENOME/hg19/hg19.fa /home/onco-admin/ATLAS_software/aod-pipe/Pipe/AODCNV/test/analysis_PywlMpEloLgO8AG/analysis/sinvict/sinvict.vcf; Date=Fri Jul  8 00:14:02 2022
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr17	41244936	.	G	A	.	.	DP=2166;AD=537,576;AF=0.51385
+chr17	41244435	.	T	C	.	.	DP=4059;AD=775,1060;AF=0.452082
+chr17	41234470	.	A	G	.	.	DP=2520;AD=622,589;AF=0.480556
+chr17	41215825	.	C	T	.	.	DP=617;AD=230,84;AF=0.508914
+chr17	41256087	.	GA	G	.	.	DP=895;AD=24,10;AF=0.0379888
+chr17	41256089	.	AAAAAAAAAGAAAAG	A	.	.	DP=897;AD=29,14;AF=0.0479376
+chr17	41256100	.	AAAG	A	.	.	DP=862;AD=249,118;AF=0.425754
+chr17	41256103	.	G	A	.	.	DP=490;AD=23,3;AF=0.0530612
+chr17	41256126	.	C	A	.	.	DP=912;AD=35,0;AF=0.0383772
+chr13	32972707	.	T	C	.	.	DP=2385;AD=46,54;AF=0.0419287
+chr17	41223094	.	T	C	.	.	DP=1268;AD=213,449;AF=0.522082
+chr17	41245237	.	A	G	.	.	DP=1803;AD=457,419;AF=0.485857
+chr13	32936646	.	T	C	.	.	DP=1054;AD=741,310;AF=0.997154
+chr13	32936620	.	A	G	.	.	DP=963;AD=130,13;AF=0.148494
+chr13	32929478	.	C	T	.	.	DP=1363;AD=250,434;AF=0.501834
+chr13	32929387	.	T	C	.	.	DP=3472;AD=1570,1884;AF=0.994816
+chr13	32915176	.	A	T	.	.	DP=3432;AD=179,179;AF=0.104312
+chr13	32944567	.	G	A	.	.	DP=2908;AD=779,627;AF=0.483494
+chr17	41256075	.	AAAAAAAAAAAAG	A	.	.	DP=841;AD=213,100;AF=0.372176
+chr11	108183167	.	A	G	.	.	DP=2061;AD=876,873;AF=0.848617
+chr17	41244000	.	T	C	.	.	DP=2621;AD=620,631;AF=0.477299
+chr11	108114661	.	AT	A	.	.	DP=1115;AD=128,92;AF=0.197309
+chr13	32907366	.	A	C	.	.	DP=1870;AD=64,0;AF=0.0342246
+chr11	108098459	.	TAA	T	.	.	DP=2698;AD=1584,1087;AF=0.989993
+chr11	108121407	.	A	T	.	.	DP=1866;AD=1,62;AF=0.0337621
+chr13	32915005	.	G	C	.	.	DP=3454;AD=1506,1944;AF=0.998842
+chr11	108188266	.	A	AT	.	.	DP=882;AD=37,38;AF=0.085034
+chr11	108141971	.	A	T	.	.	DP=1656;AD=1,52;AF=0.0320048
+chr11	108121426	.	A	T	.	.	DP=1113;AD=8,156;AF=0.14735
+chr11	108121410	.	C	CT	.	.	DP=1875;AD=272,117;AF=0.207467
+chr11	108205849	.	T	C	.	.	DP=649;AD=47,102;AF=0.229584
+chr13	32929232	.	A	G	.	.	DP=1517;AD=328,427;AF=0.497693
+chr11	108100085	.	A	G	.	.	DP=1357;AD=162,268;AF=0.316875
+chr11	108114661	.	A	AT	.	.	DP=1114;AD=71,48;AF=0.106822
+chr11	108188266	.	AT	A	.	.	DP=883;AD=55,58;AF=0.127973
+chr17	41245466	.	G	A	.	.	DP=3975;AD=954,1026;AF=0.498113
+chr17	41256074	.	C	CA	.	.	DP=902;AD=34,12;AF=0.0509978
+chr11	108121379	.	G	T	.	.	DP=1406;AD=0,54;AF=0.0384068
+chr11	108141955	.	C	CT	.	.	DP=2127;AD=100,91;AF=0.0897978
+chr11	108143182	.	C	T	.	.	DP=1032;AD=520,510;AF=0.998062
+chr13	32911463	.	A	G	.	.	DP=2051;AD=405,609;AF=0.494393
+chr17	41256074	.	CAAAAAAAAAAAAG	C	.	.	DP=905;AD=38,11;AF=0.0541436
+chr11	108121434	.	G	T	.	.	DP=865;AD=16,18;AF=0.0393064
+chr11	108141955	.	CT	C	.	.	DP=2142;AD=149,139;AF=0.134454
+chr13	32910721	.	T	C	.	.	DP=3610;AD=841,920;AF=0.487812
+chr13	32953388	.	T	C	.	.	DP=1066;AD=902,154;AF=0.990619
+chr11	108198244	.	A	T	.	.	DP=101;AD=13,3;AF=0.158416
+chr17	41201012	.	A	G	.	.	DP=621;AD=76,16;AF=0.148148
+chr13	32899388	.	A	C	.	.	DP=1312;AD=239,377;AF=0.469512
+chr11	108225483	.	C	T	.	.	DP=1262;AD=633,628;AF=0.999208
+chr11	108225661	.	A	G	.	.	DP=1192;AD=593,597;AF=0.998322
+chr13	32890572	.	G	A	.	.	DP=1519;AD=413,415;AF=0.545095
+chr13	32913055	.	A	G	.	.	DP=1311;AD=606,703;AF=0.998474
+chr17	41249363	.	TA	T	.	.	DP=1550;AD=77,79;AF=0.100645
+chr13	32893197	.	A	AT	.	.	DP=891;AD=24,17;AF=0.0460157
+chr13	32893197	.	AT	A	.	.	DP=891;AD=46,32;AF=0.0875421
+chr13	32903595	.	C	G	.	.	DP=1633;AD=0,657;AF=0.402327
+chr13	32905084	.	A	C	.	.	DP=1652;AD=26,26;AF=0.031477
+chr13	32905219	.	A	AT	.	.	DP=1359;AD=34,111;AF=0.106696
+chr13	32905219	.	AT	A	.	.	DP=1359;AD=57,126;AF=0.134658
+chr13	32906480	.	A	C	.	.	DP=3456;AD=920,786;AF=0.493634
+chr13	32906980	.	A	G	.	.	DP=3770;AD=690,943;AF=0.433156
+chr13	32907535	.	C	CT	.	.	DP=3044;AD=116,146;AF=0.086071
+chr13	32907535	.	CT	C	.	.	DP=3048;AD=194,240;AF=0.142388
+chr13	32911888	.	A	G	.	.	DP=2670;AD=664,677;AF=0.502247
+chr13	32912477	.	A	C	.	.	DP=6256;AD=137,84;AF=0.0353261
